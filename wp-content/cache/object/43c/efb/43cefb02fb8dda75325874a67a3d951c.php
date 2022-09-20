@@ -1,0 +1,1 @@
+WÝ(c<?php exit; ?>a:1:{s:7:"content";s:255:"a:2:{s:7:"version";s:10:"1663616272";s:5:"value";O:8:"stdClass":5:{s:3:"ids";a:9:{i:0;i:49;i:1;i:59;i:2;i:85;i:3;i:105;i:4;i:111;i:5;i:138;i:6;i:170;i:7;i:187;i:8;i:180;}s:5:"total";i:9;s:11:"total_pages";i:1;s:8:"per_page";i:12;s:12:"current_page";i:1;}}";}
